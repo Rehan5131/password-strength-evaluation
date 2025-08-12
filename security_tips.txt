@@ -1,0 +1,11 @@
+STRONG PASSWORD CREATION TIPS:
+1. Use 12–16+ characters.
+2. Mix uppercase, lowercase, numbers, and special symbols.
+3. Avoid dictionary words, names, and predictable sequences.
+4. Use creative substitutions like E=3, A=@, O=0.
+5. Don’t use personal information like birthdays or names.
+6. Prefer passphrases with unrelated words (e.g., Tree#Laptop9*River).
+7. Use a password manager for unique credentials on each account.
+8. Enable multi-factor authentication (MFA) wherever possible.
+9. Regularly update passwords for sensitive accounts.
+10. Be aware of phishing and never share your passwords.
